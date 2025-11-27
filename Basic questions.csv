@@ -1,0 +1,20 @@
+Category,Problem,LeetCode #,Difficulty,Link
+Arrays & Basic C,Two Sum,1,Easy,https://leetcode.com/problems/two-sum/
+Arrays & Basic C,Reverse Integer,7,Easy,https://leetcode.com/problems/reverse-integer/
+Arrays & Basic C,Max Subarray Sum,53,Easy,https://leetcode.com/problems/maximum-subarray/
+Bit Manipulation,Single Number,136,Easy,https://leetcode.com/problems/single-number/
+Bit Manipulation,Power of Two,231,Easy,https://leetcode.com/problems/power-of-two/
+Bit Manipulation,Number of 1 Bits,191,Easy,https://leetcode.com/problems/number-of-1-bits/
+Bit Manipulation,Reverse Bits,190,Easy,https://leetcode.com/problems/reverse-bits/
+Memory Management,Implement strstr(),28,Medium,https://leetcode.com/problems/implement-strstr/
+Memory Management,Find Duplicate in Array,287,Medium,https://leetcode.com/problems/find-the-duplicate-number/
+Strings & Character Arrays,Valid Palindrome,125,Easy,https://leetcode.com/problems/valid-palindrome/
+Strings & Character Arrays,Length of Last Word,58,Easy,https://leetcode.com/problems/length-of-last-word/
+Strings & Character Arrays,Longest Substring Without Repeating Characters,3,Medium,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Strings & Character Arrays,Anagram,242,Medium,https://leetcode.com/problems/valid-anagram/
+Linked Lists,Reverse Linked List,206,Easy,https://leetcode.com/problems/reverse-linked-list/
+Linked Lists,Linked List Cycle,141,Medium,https://leetcode.com/problems/linked-list-cycle/
+Linked Lists,Merge Two Sorted Lists,21,Easy,https://leetcode.com/problems/merge-two-sorted-lists/
+Time Complexity,Find Minimum in Rotated Sorted Array,153,Medium,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Time Complexity,Search in Rotated Sorted Array,33,Medium,https://leetcode.com/problems/search-in-rotated-sorted-array/
+Time Complexity,Median of Two Sorted Arrays,4,Hard,https://leetcode.com/problems/median-of-two-sorted-arrays/
